@@ -21,7 +21,15 @@ namespace Attributes
         {
             DbConfig config = new DbConfig();
             //config.ConnectToDataBase();
-            config.ConnectToDb();
+            //config.ConnectToDb();
+
+            var memberType = typeof(Member);
+            object[] memberAttributes = memberType.GetCustomAttributes(false);
+            if(memberAttributes.Length > 0)
+            {
+                MemberProfileAttribute memberProfileAttribute = (MemberProfileAttribute)memberAttributes[0];
+                MessageBox.Show($"{memberProfileAttribute.Fname} {memberProfileAttribute.Lname}");
+            }
         }
     }
 }

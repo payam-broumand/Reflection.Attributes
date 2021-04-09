@@ -2,6 +2,7 @@
 { 
      //[MemberProfile(Fname = "Alireza", Lname = "Boroumand")]
     [MemberProfile("Alireza", "Boroumand")]
+    [MemberProfile("Amir", "Boroumand")]
     public class Member
     {
         public string FirstName { get; set; }

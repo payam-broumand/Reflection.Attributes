@@ -20,7 +20,8 @@ namespace Attributes
         private void button1_Click(object sender, EventArgs e)
         {
             DbConfig config = new DbConfig();
-            config.ConnectToDataBase();
+            //config.ConnectToDataBase();
+            config.ConnectToDb();
         }
     }
 }

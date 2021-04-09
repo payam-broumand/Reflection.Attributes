@@ -1,0 +1,10 @@
+C:\Users\Payam\Desktop\Reflection2\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Payam\Desktop\Reflection2\Attributes\bin\Debug\Attributes.exe
+C:\Users\Payam\Desktop\Reflection2\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Payam\Desktop\Reflection2\Attributes\obj\Debug\Attributes.csprojAssemblyReference.cache
+C:\Users\Payam\Desktop\Reflection2\Attributes\obj\Debug\Attributes.Form1.resources
+C:\Users\Payam\Desktop\Reflection2\Attributes\obj\Debug\Attributes.Properties.Resources.resources
+C:\Users\Payam\Desktop\Reflection2\Attributes\obj\Debug\Attributes.csproj.GenerateResource.cache
+C:\Users\Payam\Desktop\Reflection2\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Payam\Desktop\Reflection2\Attributes\obj\Debug\Attributes.exe
+C:\Users\Payam\Desktop\Reflection2\Attributes\obj\Debug\Attributes.pdb
